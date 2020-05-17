@@ -1,7 +1,7 @@
 ---
 title: "FirstPost In My Git Blog"
 date: 2020-05-17
-categories: Test
+categories: jekyll update
 ---
 
 첫번째 포스트 테스트...
