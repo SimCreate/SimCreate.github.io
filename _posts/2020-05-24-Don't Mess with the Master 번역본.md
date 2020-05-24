@@ -25,10 +25,15 @@ Master Branch는 안정적인 상태여야 합니다. 그리고 오픈 소스 �
 ====================
 
 Mess with : 남용하다
+
 Essential : very important - 기본적인
+
 Disaster : 버그
+
 On the fly : 즉석으로
+
 Ripple out : 영향을 끼친다
+
 Roll out : to make a new Service for the first time -> 출시하다
 
 ====================
